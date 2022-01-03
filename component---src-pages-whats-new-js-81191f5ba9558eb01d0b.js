@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkpayroc_developer_knowledgebase=self.webpackChunkpayroc_developer_knowledgebase||[]).push([[287],{7346:function(e,l,n){n.r(l);var a=n(7294),r=n(6317);l.default=function(){return a.createElement(r.Z,null,a.createElement("p",null,"Whats New"))}}}]);
-//# sourceMappingURL=component---src-pages-whats-new-js-81191f5ba9558eb01d0b.js.map

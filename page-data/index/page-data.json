@@ -1,5 +1,5 @@
 {
-    "componentChunkName": "component---src-pages-index-js",
+    "componentChunkName": "component---src-pages-index-tsx",
     "path": "/",
-    "result": {"pageContext":{}},
-    "staticQueryHashes": []}
+    "result": {"data":{"site":{"siteMetadata":{"title":"Payroc Developer Documentation","description":null}}},"pageContext":{}},
+    "staticQueryHashes": ["3567824559"]}

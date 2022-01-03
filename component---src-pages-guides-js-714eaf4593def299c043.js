@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkpayroc_developer_knowledgebase=self.webpackChunkpayroc_developer_knowledgebase||[]).push([[739],{8916:function(e,l,n){n.r(l);var r=n(7294),u=n(6317);l.default=function(){return r.createElement(u.Z,null,r.createElement("p",null,"Guides"))}}}]);
-//# sourceMappingURL=component---src-pages-guides-js-714eaf4593def299c043.js.map
